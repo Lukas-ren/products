@@ -1,4 +1,4 @@
-package com.fitting.productservice.service;
+package com.fitting.productservice;
 
 import com.fitting.productservice.dto.ProductRequest;
 import com.fitting.productservice.dto.ProductResponse;
